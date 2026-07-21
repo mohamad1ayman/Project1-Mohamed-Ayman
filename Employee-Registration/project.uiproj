@@ -1,0 +1,6 @@
+{
+  "Name": "Employee-Registration-Process",
+  "ProjectType": "Process",
+  "Description": "Employee Registration Process Automation",
+  "MainFile": "Main.xaml"
+}

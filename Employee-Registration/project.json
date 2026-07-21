@@ -1,0 +1,9 @@
+{
+  "name": "Employee-Registration-Process",
+  "projectId": "emp-reg-2026-001",
+  "description": "Employee Registration Process - UiPath Automation",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "schemaVersion": "4.0",
+  "projectVersion": "1.0.0"
+}
